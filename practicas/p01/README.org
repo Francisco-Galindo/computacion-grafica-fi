@@ -1,0 +1,5 @@
+* Notas sobre la entrega de la práctica 01
+
+Dado que estoy trabajando en un sistema Linux, no anexo el /release/
+del proyecto. En su lugar subo un =Makefile= con los comandos que
+utilicé para hacer la compilación.
