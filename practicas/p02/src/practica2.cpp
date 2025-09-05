@@ -1,4 +1,3 @@
-//Práctica 2: índices, mesh, proyecciones, transformaciones geométricas
 #include <stdio.h>
 #include <string.h>
 #include<cmath>
